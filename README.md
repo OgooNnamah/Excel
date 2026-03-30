@@ -17,22 +17,22 @@ Tableau (Data Visualization & Dashboards)
 35 columns including demographics, job roles, compensation, and satisfaction metrics
 
 # Data Preparation and Transformation
-Removed constant columns (EmployeeCount, Over18, StandardHours)
-Decoded categorical fields (Education, JobSatisfaction, WorkLifeBalance)
-Created calculated columns:
-Attrition Flag (0/1)
-Age Band, Income Band, Tenure Band
-Retention Risk Score
-Risk Category (High, Medium, Low)
-Compensation Ratio
+- Removed constant columns (EmployeeCount, Over18, StandardHours)
+- Decoded categorical fields (Education, JobSatisfaction, WorkLifeBalance)
+- Created calculated columns:
+  (a) Attrition Flag (0/1)
+  (b) Age Band, Income Band, Tenure Band
+  (c) Retention Risk Score
+  (d) Risk Category (High, Medium, Low)
+  (e) Compensation Ratio
 
 # Excel Analysis
-Attrition rate by Department and Job Role
-Overtime impact on attrition
-Gender pay gap analysis
-Income and tenure distribution
-Promotion stagnation analysis
-Interactive PivotTables with slicers
+- Attrition rate by Department and Job Role
+- Overtime impact on attrition
+- Gender pay gap analysis
+- Income and tenure distribution
+- Promotion stagnation analysis
+- Interactive PivotTables with slicers
 
 # Data Visualization
 I moved the excel file to Tableau where I created 12 worksheets and 3 dashboards
