@@ -58,7 +58,7 @@ I moved the excel file to Tableau where I created 12 worksheets and 3 dashboards
 - Satisfaction heatmap
 - High-risk employee identification
 
-<img width="1523" height="828" alt="image" src="https://github.com/user-attachments/assets/e4f1233f-f3ae-4a16-b6e2-5bdb4352fa8c" />
+<img width="1518" height="829" alt="image" src="https://github.com/user-attachments/assets/8f07abfe-65d9-49c8-803a-e9af60221af3" />
 
 # Key Insights
 - Sales and HR typically show higher attrition rates than R&D which indicates role pressure, targets, or job instability. 
