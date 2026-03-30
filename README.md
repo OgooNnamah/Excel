@@ -61,27 +61,27 @@ I moved the excel file to Tableau where I created 12 worksheets and 3 dashboards
 <img width="1523" height="828" alt="image" src="https://github.com/user-attachments/assets/e4f1233f-f3ae-4a16-b6e2-5bdb4352fa8c" />
 
 # Key Insights
-•	Sales and HR typically show higher attrition rates than R&D which indicates role pressure, targets, or job instability. 
-•	Employees in 0–2 years tenure band show the highest attrition. This means that there is onboarding or expectation mismatch. 
-•	While employees working overtime have significantly higher attrition rates, employees with low Job Satisfaction and Work Life Balance leave more and employees with low Compensation Ratio (<1) show higher attrition.
-•	High-risk category aligns strongly with actual attrition. 
+- Sales and HR typically show higher attrition rates than R&D which indicates role pressure, targets, or job instability. 
+- Employees in 0–2 years tenure band show the highest attrition. This means that there is onboarding or expectation mismatch. 
+- While employees working overtime have significantly higher attrition rates, employees with low Job Satisfaction and Work Life Balance leave more and employees with low Compensation Ratio (<1) show higher attrition.
+- High-risk category aligns strongly with actual attrition. 
 
 # Business Recommendations
-•	Retention strategies should be focused on high-turnover departments.
-•	There is need to improve onboarding, mentorship, and early engagement programs and monitor workload
-•	Flexible work policies should be introduced to reduce burnout risk and work-life balance policies should be improved.
-•	Conduct employee surveys and act on feedback.
-•	Compensation structures should be adjusted. This could be done through benchmarking salaries against market rates.
-•	There is need to create clearer career progression paths and increase internal mobility opportunities 
-•	Pay equity should be ensured and regular compensation audits conducted.
+- Retention strategies should be focused on high-turnover departments.
+- There is need to improve onboarding, mentorship, and early engagement programs and monitor workload
+- Flexible work policies should be introduced to reduce burnout risk and work-life balance policies should be improved.
+- Conduct employee surveys and act on feedback.
+- Compensation structures should be adjusted. This could be done through benchmarking salaries against market rates.
+- There is need to create clearer career progression paths and increase internal mobility opportunities 
+- Pay equity should be ensured and regular compensation audits conducted.
 
 # Project Outcome
 This project demonstrates end-to-end data analysis:
 
-•	Data cleaning and transformation
-•	Exploratory data analysis
-•	KPI development
-•	Dashboard design and storytelling
+- Data cleaning and transformation
+- Exploratory data analysis
+- KPI development
+- Dashboard design and storytelling
 
 # Notes
 This project is part of a data analytics portfolio demonstrating HR analytics and business intelligence skills.
