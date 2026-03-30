@@ -1,4 +1,4 @@
-# FINANCE DATA PROJECT
+# Human Resource Analysis
 # Project Overview
 This project analyzes employee attrition using the IBM HR Analytics dataset. The goal is to identify key drivers of employee turnover and provide actionable HR insights using Excel and Tableau.
 
@@ -39,27 +39,26 @@ I moved the excel file to Tableau where I created 12 worksheets and 3 dashboards
 
 # Tableau Dashboards
 1. HR Executive Summary
-KPIs
-Attrition rate overview
-Attrition by department, age band and job role
+- KPIs
+- Attrition rate overview
+- Attrition by department, age band and job role
 
 <img width="1619" height="810" alt="image" src="https://github.com/user-attachments/assets/61a3f9fd-1b4a-4652-a942-bb2bcfd37a1e" />
 
 2. Compensation & Performance
-Salary distribution
-Gender pay comparison
-Compensation vs attrition analysis
+- Salary distribution
+- Gender pay comparison
+- Compensation vs attrition analysis
 
 <img width="1641" height="810" alt="image" src="https://github.com/user-attachments/assets/3aaae466-f721-4856-86a2-8269f2e2539e" />
 
 3. Attrition Risk Intelligence
-Risk category segmentation
-Overtime vs attrition
-Satisfaction heatmap
-High-risk employee identification
+- Risk category segmentation
+- Overtime vs attrition
+- Satisfaction heatmap
+- High-risk employee identification
 
 <img width="1523" height="828" alt="image" src="https://github.com/user-attachments/assets/e4f1233f-f3ae-4a16-b6e2-5bdb4352fa8c" />
-
 
 # Key Insights
 •	Sales and HR typically show higher attrition rates than R&D which indicates role pressure, targets, or job instability. 
