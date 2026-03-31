@@ -20,11 +20,11 @@ Tableau (Data Visualization & Dashboards)
 - Removed constant columns (EmployeeCount, Over18, StandardHours)
 - Decoded categorical fields (Education, JobSatisfaction, WorkLifeBalance)
 - Created calculated columns:
-  (a) Attrition Flag (0/1)
-  (b) Age Band, Income Band, Tenure Band
-  (c) Retention Risk Score
-  (d) Risk Category (High, Medium, Low)
-  (e) Compensation Ratio
+  - Attrition Flag (0/1)
+  - Age Band, Income Band, Tenure Band
+  - Retention Risk Score
+  - Risk Category (High, Medium, Low)
+  - Compensation Ratio
 
 # Excel Analysis
 - Attrition rate by Department and Job Role
