@@ -10,12 +10,12 @@ The data used for this work is gotten from Kaggle-
 <https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset>
 
 # Tools Used
-Excel (Power Query, Formulas, PivotTables)
-Tableau (Data Visualization & Dashboards)
+- Excel (Power Query, Formulas, PivotTables)
+- Tableau (Data Visualization & Dashboards)
 
 # Dataset
-1,470 employees
-35 columns including demographics, job roles, compensation, and satisfaction metrics
+- 1,470 employees
+- 35 columns including demographics, job roles, compensation, and satisfaction metrics
 
 # Data Preparation and Transformation
 - Removed constant columns (EmployeeCount, Over18, StandardHours)
